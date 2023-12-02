@@ -18,3 +18,5 @@ class Template extends MY_Controller
         $this->loadTemplate("template/my_view");
     }
 }
+
+// test
