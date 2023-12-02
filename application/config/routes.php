@@ -11,3 +11,7 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route["show-message"] = "message/show_message";
 $route["simple-message"] = "message/simpleMessage";
+
+$route["my-view"] = "template/my_view";
+$route["home"] = "home/call_homepage";
+$route["about"] = "about/call_aboutpage";
